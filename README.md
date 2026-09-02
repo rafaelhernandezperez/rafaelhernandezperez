@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Rafa 👋
 
-<!--
-**rafaelhernandezperez/rafaelhernandezperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Digital Consultant and FinTech graduate based in Madrid, interested in
+building data-driven products at the intersection of technology, finance and AI.
 
-Here are some ideas to get you started:
+Currently working with Python, PySpark, AWS and other data technologies, while
+developing projects involving financial data, LLMs and modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**
+Python · TypeScript · JavaScript · SQL · Java · C++ 
+
+**Frontend**
+Angular · React . Next.js
+
+**Backend & Data**
+Node.js · Express · PySpark · Pandas · Matplotlib · PyTorch · TensorFlow
+
+**Cloud & Tools**
+AWS · Firebase · Docker · Git
+
+**AI**
+LLMs · RAG · LangChain · Hugging Face
+
+## 🚀 Featured Projects
+
+### 📈 Financial News Tracker
+AI-powered web application for aggregating, filtering and analyzing financial
+news based on a user's investment watchlist.
+
+Angular · Node.js · Firebase · LLMs · Yahoo Finance
+
+### 🤖 Enterprise RAG Assistant
+Retrieval-Augmented Generation system for querying and retrieving information
+from corporate knowledge sources.
+
+Python · LangChain · Vertex AI · RAG
