@@ -30,9 +30,3 @@ AI-powered web application for aggregating, filtering and analyzing financial
 news based on a user's investment watchlist.
 
 Angular · Node.js · Firebase · LLMs · Yahoo Finance
-
-### 🤖 Enterprise RAG Assistant
-Retrieval-Augmented Generation system for querying and retrieving information
-from corporate knowledge sources.
-
-Python · LangChain · Vertex AI · RAG
